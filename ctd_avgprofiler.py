@@ -416,4 +416,4 @@ if __name__ == "__main__":
     status.place(relx=0.02, rely=0.5)
 
     root.mainloop()
-print("++++++++++++++++Program Exited++++++++++++++++++++")
+print("++++++++++++++++Program Exited+++++++++++++++++++++++")
